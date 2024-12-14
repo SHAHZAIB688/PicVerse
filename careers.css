@@ -1,0 +1,19 @@
+h2{
+    padding-left: 70px;
+    padding-top: 50px;
+}
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+  }
+  hr{
+    display: flex;
+    justify-content: center;
+    
+  }
+  h4{
+    padding-left: 70px;
+    
+  }
